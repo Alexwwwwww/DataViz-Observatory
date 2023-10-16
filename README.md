@@ -1,4 +1,5 @@
 # DataViz-Observatory
+This project was from a graduate school-level course (IS445) I took in my exchange study at University of Illinois Urbana Champaign.
 ## Dataset
 Climate Change in the Contiguous United States
 - The Washington Post's series, "2ºC: Beyond the Limit."
